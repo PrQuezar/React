@@ -7,7 +7,7 @@ Bu projeyi, React ile ilk API entegrasyonumu gerçekleştirmek ve State yönetim
 
 | **Temel Yapı ve API Bağlantısı** | Projenin ilk temellerini ve API'dan veri çekme mantığını, **[[Enes Bayram](https://www.youtube.com/@EnesBayramm)]** adlı YouTube kanalındaki eğitim içeriği üzerinden öğrendim ve uyguladım. |
 | **Kullanılan API** | Gerçek döviz kurlarını çekmek için **Free Currency API** servisini kullandım. |
-| **Yardımcı Araçlar** | Kod yazarken takıldığım noktalarda, CSS düzenlemelerinde ve bazı fonksiyonel geliştirmelerde **Gemini (veya ChatGPT)** yapay zeka aracından yardım alarak ilerledim. |
+| **Yardımcı Araçlar** | Kod yazarken takıldığım noktalarda, CSS düzenlemelerinde ve bazı fonksiyonel geliştirmelerde **Gemini gibi** yapay zeka aracından yardım alarak ilerledim. |
 
 ### Benim Eklediğim Özellikler
 
